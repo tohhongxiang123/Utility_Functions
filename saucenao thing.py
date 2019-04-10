@@ -25,7 +25,7 @@ def get_sauce(path):
             files = {"file": f.read()}
 
         parameters = {
-            "api_key": "66d5d7348cce2cb54994008cf3c47e54dfafe48a",
+            "api_key": "",
             "file": file_path,
             "url": None,
             "output_type": "2"}
